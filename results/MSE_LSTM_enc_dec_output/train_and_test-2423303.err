@@ -1,0 +1,4 @@
+/home/jshin029/.conda/envs/py39/lib/python3.9/site-packages/torch/backends/cudnn/__init__.py:73: UserWarning: PyTorch was compiled without cuDNN/MIOpen support. To use cuDNN/MIOpen, rebuild PyTorch making sure the library is visible to the build system.
+  warnings.warn(
+/home/jshin029/CS229B/LSTM_enc_dec.py:215: RuntimeWarning: invalid value encountered in sqrt
+  tfr = teacher_forcing_ratio * np.sqrt(1-n_epoch/(n_epochs*.9))

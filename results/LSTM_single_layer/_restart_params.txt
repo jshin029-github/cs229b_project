@@ -1,0 +1,9 @@
+odel = torch.load('/home/jshin029/CS229B/results/LSTM_single_layer/1400_model.pt')
+
+loss = model.train_model(train_X, train_Y,
+                         test_X, test_Y,
+                         n_epochs = 2000,
+                         teacher_forcing_ratio = 0.1,
+                         learning_rate = 0.01, dynamic_tf = 0.001,
+                         print_multiple = 5, save_path = args[1],
+                         restart_epoch = restart_epoch)
