@@ -1,0 +1,879 @@
+Selected device: cuda
+Importing data
+Building Model
+Loading Model
+Training model with 26785 parameters
+Epoch  851 Train Batch Loss:  0.556 Test Loss:  0.6 ; Time elapsed:  198.22
+Epoch  852 Train Batch Loss:  0.553 ; Time elapsed:  395.32
+Epoch  853 Train Batch Loss:  0.553 ; Time elapsed:  591.14
+Epoch  854 Train Batch Loss:  0.553 ; Time elapsed:  786.91
+Epoch  855 Train Batch Loss:  0.552 ; Time elapsed:  983.36
+Epoch  856 Train Batch Loss:  0.55 Test Loss:  0.599 ; Time elapsed:  1181.97
+Epoch  857 Train Batch Loss:  0.552 ; Time elapsed:  1379.05
+Epoch  858 Train Batch Loss:  0.552 ; Time elapsed:  1576.59
+Epoch  859 Train Batch Loss:  0.549 ; Time elapsed:  1772.61
+Epoch  860 Train Batch Loss:  0.551 ; Time elapsed:  1970.06
+Epoch  861 Train Batch Loss:  0.553 Test Loss:  0.599 ; Time elapsed:  2167.53
+Epoch  862 Train Batch Loss:  0.551 ; Time elapsed:  2366.04
+Epoch  863 Train Batch Loss:  0.551 ; Time elapsed:  2564.45
+Epoch  864 Train Batch Loss:  0.55 ; Time elapsed:  2765.78
+Epoch  865 Train Batch Loss:  0.55 ; Time elapsed:  2964.39
+Epoch  866 Train Batch Loss:  0.552 Test Loss:  0.6 ; Time elapsed:  3163.14
+Epoch  867 Train Batch Loss:  0.552 ; Time elapsed:  3362.28
+Epoch  868 Train Batch Loss:  0.551 ; Time elapsed:  3560.27
+Epoch  869 Train Batch Loss:  0.549 ; Time elapsed:  3758.56
+Epoch  870 Train Batch Loss:  0.55 ; Time elapsed:  3957.19
+Epoch  871 Train Batch Loss:  0.551 Test Loss:  0.599 ; Time elapsed:  4156.05
+Epoch  872 Train Batch Loss:  0.551 ; Time elapsed:  4353.41
+Epoch  873 Train Batch Loss:  0.552 ; Time elapsed:  4550.5
+Epoch  874 Train Batch Loss:  0.552 ; Time elapsed:  4747.03
+Epoch  875 Train Batch Loss:  0.55 ; Time elapsed:  4943.54
+Epoch  876 Train Batch Loss:  0.552 Test Loss:  0.599 ; Time elapsed:  5140.62
+Epoch  877 Train Batch Loss:  0.55 ; Time elapsed:  5337.07
+Epoch  878 Train Batch Loss:  0.551 ; Time elapsed:  5532.98
+Epoch  879 Train Batch Loss:  0.549 ; Time elapsed:  5729.39
+Epoch  880 Train Batch Loss:  0.55 ; Time elapsed:  5925.83
+Epoch  881 Train Batch Loss:  0.553 Test Loss:  0.599 ; Time elapsed:  6122.14
+Epoch  882 Train Batch Loss:  0.551 ; Time elapsed:  6318.08
+Epoch  883 Train Batch Loss:  0.551 ; Time elapsed:  6515.01
+Epoch  884 Train Batch Loss:  0.553 ; Time elapsed:  6711.29
+Epoch  885 Train Batch Loss:  0.553 ; Time elapsed:  6907.76
+Epoch  886 Train Batch Loss:  0.55 Test Loss:  0.599 ; Time elapsed:  7104.78
+Epoch  887 Train Batch Loss:  0.551 ; Time elapsed:  7301.13
+Epoch  888 Train Batch Loss:  0.55 ; Time elapsed:  7500.84
+Epoch  889 Train Batch Loss:  0.55 ; Time elapsed:  7699.25
+Epoch  890 Train Batch Loss:  0.55 ; Time elapsed:  7897.68
+Epoch  891 Train Batch Loss:  0.551 Test Loss:  0.599 ; Time elapsed:  8095.18
+Epoch  892 Train Batch Loss:  0.551 ; Time elapsed:  8293.6
+Epoch  893 Train Batch Loss:  0.55 ; Time elapsed:  8490.46
+Epoch  894 Train Batch Loss:  0.55 ; Time elapsed:  8689.52
+Epoch  895 Train Batch Loss:  0.548 ; Time elapsed:  8889.46
+Epoch  896 Train Batch Loss:  0.55 Test Loss:  0.599 ; Time elapsed:  9089.57
+Epoch  897 Train Batch Loss:  0.552 ; Time elapsed:  9288.59
+Epoch  898 Train Batch Loss:  0.552 ; Time elapsed:  9487.91
+Epoch  899 Train Batch Loss:  0.552 ; Time elapsed:  9686.22
+Epoch  900 Train Batch Loss:  0.552 ; Time elapsed:  9883.68
+Epoch  901 Train Batch Loss:  0.549 Test Loss:  0.599 ; Time elapsed:  10081.99
+Epoch  902 Train Batch Loss:  0.548 ; Time elapsed:  10279.93
+Epoch  903 Train Batch Loss:  0.553 ; Time elapsed:  10477.62
+Epoch  904 Train Batch Loss:  0.552 ; Time elapsed:  10677.31
+Epoch  905 Train Batch Loss:  0.551 ; Time elapsed:  10874.61
+Epoch  906 Train Batch Loss:  0.552 Test Loss:  0.599 ; Time elapsed:  11073.36
+Epoch  907 Train Batch Loss:  0.55 ; Time elapsed:  11271.03
+Epoch  908 Train Batch Loss:  0.55 ; Time elapsed:  11467.81
+Epoch  909 Train Batch Loss:  0.552 ; Time elapsed:  11664.24
+Epoch  910 Train Batch Loss:  0.553 ; Time elapsed:  11860.89
+Epoch  911 Train Batch Loss:  0.552 Test Loss:  0.599 ; Time elapsed:  12057.42
+Epoch  912 Train Batch Loss:  0.551 ; Time elapsed:  12254.54
+Epoch  913 Train Batch Loss:  0.55 ; Time elapsed:  12451.87
+Epoch  914 Train Batch Loss:  0.551 ; Time elapsed:  12648.12
+Epoch  915 Train Batch Loss:  0.553 ; Time elapsed:  12843.91
+Epoch  916 Train Batch Loss:  0.549 Test Loss:  0.599 ; Time elapsed:  13041.41
+Epoch  917 Train Batch Loss:  0.55 ; Time elapsed:  13237.41
+Epoch  918 Train Batch Loss:  0.553 ; Time elapsed:  13433.52
+Epoch  919 Train Batch Loss:  0.549 ; Time elapsed:  13629.55
+Epoch  920 Train Batch Loss:  0.549 ; Time elapsed:  13826.85
+Epoch  921 Train Batch Loss:  0.549 Test Loss:  0.598 ; Time elapsed:  14023.16
+Epoch  922 Train Batch Loss:  0.552 ; Time elapsed:  14219.93
+Epoch  923 Train Batch Loss:  0.55 ; Time elapsed:  14415.8
+Epoch  924 Train Batch Loss:  0.554 ; Time elapsed:  14612.81
+Epoch  925 Train Batch Loss:  0.55 ; Time elapsed:  14809.42
+Epoch  926 Train Batch Loss:  0.552 Test Loss:  0.598 ; Time elapsed:  15006.27
+Epoch  927 Train Batch Loss:  0.552 ; Time elapsed:  15202.1
+Epoch  928 Train Batch Loss:  0.55 ; Time elapsed:  15399.46
+Epoch  929 Train Batch Loss:  0.549 ; Time elapsed:  15595.09
+Epoch  930 Train Batch Loss:  0.548 ; Time elapsed:  15791.11
+Epoch  931 Train Batch Loss:  0.552 Test Loss:  0.599 ; Time elapsed:  15987.82
+Epoch  932 Train Batch Loss:  0.551 ; Time elapsed:  16185.55
+Epoch  933 Train Batch Loss:  0.55 ; Time elapsed:  16381.59
+Epoch  934 Train Batch Loss:  0.552 ; Time elapsed:  16577.69
+Epoch  935 Train Batch Loss:  0.551 ; Time elapsed:  16773.71
+Epoch  936 Train Batch Loss:  0.55 Test Loss:  0.598 ; Time elapsed:  16971.34
+Epoch  937 Train Batch Loss:  0.551 ; Time elapsed:  17167.48
+Epoch  938 Train Batch Loss:  0.551 ; Time elapsed:  17363.55
+Epoch  939 Train Batch Loss:  0.551 ; Time elapsed:  17559.56
+Epoch  940 Train Batch Loss:  0.552 ; Time elapsed:  17756.8
+Epoch  941 Train Batch Loss:  0.551 Test Loss:  0.598 ; Time elapsed:  17955.29
+Epoch  942 Train Batch Loss:  0.554 ; Time elapsed:  18152.23
+Epoch  943 Train Batch Loss:  0.552 ; Time elapsed:  18350.75
+Epoch  944 Train Batch Loss:  0.551 ; Time elapsed:  18549.34
+Epoch  945 Train Batch Loss:  0.553 ; Time elapsed:  18746.23
+Epoch  946 Train Batch Loss:  0.55 Test Loss:  0.598 ; Time elapsed:  18944.7
+Epoch  947 Train Batch Loss:  0.55 ; Time elapsed:  19143.35
+Epoch  948 Train Batch Loss:  0.552 ; Time elapsed:  19341.79
+Epoch  949 Train Batch Loss:  0.551 ; Time elapsed:  19541.21
+Epoch  950 Train Batch Loss:  0.55 ; Time elapsed:  19741.35
+Epoch  951 Train Batch Loss:  0.552 Test Loss:  0.598 ; Time elapsed:  19939.27
+Epoch  952 Train Batch Loss:  0.55 ; Time elapsed:  20138.89
+Epoch  953 Train Batch Loss:  0.551 ; Time elapsed:  20338.11
+Epoch  954 Train Batch Loss:  0.553 ; Time elapsed:  20536.23
+Epoch  955 Train Batch Loss:  0.552 ; Time elapsed:  20734.96
+Epoch  956 Train Batch Loss:  0.549 Test Loss:  0.599 ; Time elapsed:  20936.96
+Epoch  957 Train Batch Loss:  0.551 ; Time elapsed:  21136.58
+Epoch  958 Train Batch Loss:  0.552 ; Time elapsed:  21336.69
+Epoch  959 Train Batch Loss:  0.551 ; Time elapsed:  21535.18
+Epoch  960 Train Batch Loss:  0.549 ; Time elapsed:  21732.76
+Epoch  961 Train Batch Loss:  0.553 Test Loss:  0.599 ; Time elapsed:  21933.14
+Epoch  962 Train Batch Loss:  0.55 ; Time elapsed:  22135.1
+Epoch  963 Train Batch Loss:  0.55 ; Time elapsed:  22332.8
+Epoch  964 Train Batch Loss:  0.551 ; Time elapsed:  22533.57
+Epoch  965 Train Batch Loss:  0.549 ; Time elapsed:  22733.12
+Epoch  966 Train Batch Loss:  0.55 Test Loss:  0.599 ; Time elapsed:  22933.21
+Epoch  967 Train Batch Loss:  0.552 ; Time elapsed:  23132.31
+Epoch  968 Train Batch Loss:  0.551 ; Time elapsed:  23331.66
+Epoch  969 Train Batch Loss:  0.555 ; Time elapsed:  23529.46
+Epoch  970 Train Batch Loss:  0.55 ; Time elapsed:  23728.11
+Epoch  971 Train Batch Loss:  0.553 Test Loss:  0.598 ; Time elapsed:  23926.06
+Epoch  972 Train Batch Loss:  0.551 ; Time elapsed:  24123.09
+Epoch  973 Train Batch Loss:  0.551 ; Time elapsed:  24319.66
+Epoch  974 Train Batch Loss:  0.552 ; Time elapsed:  24516.37
+Epoch  975 Train Batch Loss:  0.55 ; Time elapsed:  24713.11
+Epoch  976 Train Batch Loss:  0.551 Test Loss:  0.599 ; Time elapsed:  24910.14
+Epoch  977 Train Batch Loss:  0.553 ; Time elapsed:  25107.76
+Epoch  978 Train Batch Loss:  0.551 ; Time elapsed:  25304.27
+Epoch  979 Train Batch Loss:  0.549 ; Time elapsed:  25500.68
+Epoch  980 Train Batch Loss:  0.552 ; Time elapsed:  25697.49
+Epoch  981 Train Batch Loss:  0.553 Test Loss:  0.599 ; Time elapsed:  25894.55
+Epoch  982 Train Batch Loss:  0.554 ; Time elapsed:  26091.2
+Epoch  983 Train Batch Loss:  0.552 ; Time elapsed:  26287.29
+Epoch  984 Train Batch Loss:  0.548 ; Time elapsed:  26483.92
+Epoch  985 Train Batch Loss:  0.549 ; Time elapsed:  26680.11
+Epoch  986 Train Batch Loss:  0.552 Test Loss:  0.599 ; Time elapsed:  26878.59
+Epoch  987 Train Batch Loss:  0.55 ; Time elapsed:  27075.92
+Epoch  988 Train Batch Loss:  0.554 ; Time elapsed:  27273.18
+Epoch  989 Train Batch Loss:  0.554 ; Time elapsed:  27469.17
+Epoch  990 Train Batch Loss:  0.552 ; Time elapsed:  27665.75
+Epoch  991 Train Batch Loss:  0.551 Test Loss:  0.599 ; Time elapsed:  27863.27
+Epoch  992 Train Batch Loss:  0.552 ; Time elapsed:  28060.14
+Epoch  993 Train Batch Loss:  0.552 ; Time elapsed:  28256.41
+Epoch  994 Train Batch Loss:  0.549 ; Time elapsed:  28454.57
+Epoch  995 Train Batch Loss:  0.551 ; Time elapsed:  28651.38
+Epoch  996 Train Batch Loss:  0.551 Test Loss:  0.599 ; Time elapsed:  28848.14
+Epoch  997 Train Batch Loss:  0.549 ; Time elapsed:  29045.17
+Epoch  998 Train Batch Loss:  0.552 ; Time elapsed:  29243.79
+Epoch  999 Train Batch Loss:  0.552 ; Time elapsed:  29439.94
+Epoch  1000 Train Batch Loss:  0.553 ; Time elapsed:  29636.43
+Epoch  1001 Train Batch Loss:  0.554 Test Loss:  0.598 ; Time elapsed:  29833.56
+Epoch  1002 Train Batch Loss:  0.554 ; Time elapsed:  30029.7
+Epoch  1003 Train Batch Loss:  0.551 ; Time elapsed:  30225.06
+Epoch  1004 Train Batch Loss:  0.552 ; Time elapsed:  30421.47
+Epoch  1005 Train Batch Loss:  0.551 ; Time elapsed:  30617.66
+Epoch  1006 Train Batch Loss:  0.552 Test Loss:  0.599 ; Time elapsed:  30814.29
+Epoch  1007 Train Batch Loss:  0.552 ; Time elapsed:  31011.41
+Epoch  1008 Train Batch Loss:  0.553 ; Time elapsed:  31207.98
+Epoch  1009 Train Batch Loss:  0.556 ; Time elapsed:  31404.29
+Epoch  1010 Train Batch Loss:  0.55 ; Time elapsed:  31601.06
+Epoch  1011 Train Batch Loss:  0.55 Test Loss:  0.598 ; Time elapsed:  31797.82
+Epoch  1012 Train Batch Loss:  0.55 ; Time elapsed:  31994.02
+Epoch  1013 Train Batch Loss:  0.554 ; Time elapsed:  32190.34
+Epoch  1014 Train Batch Loss:  0.551 ; Time elapsed:  32386.06
+Epoch  1015 Train Batch Loss:  0.552 ; Time elapsed:  32582.81
+Epoch  1016 Train Batch Loss:  0.549 Test Loss:  0.598 ; Time elapsed:  32779.69
+Epoch  1017 Train Batch Loss:  0.554 ; Time elapsed:  32976.4
+Epoch  1018 Train Batch Loss:  0.554 ; Time elapsed:  33172.4
+Epoch  1019 Train Batch Loss:  0.554 ; Time elapsed:  33369.35
+Epoch  1020 Train Batch Loss:  0.555 ; Time elapsed:  33566.1
+Epoch  1021 Train Batch Loss:  0.554 Test Loss:  0.598 ; Time elapsed:  33762.63
+Epoch  1022 Train Batch Loss:  0.551 ; Time elapsed:  33958.98
+Epoch  1023 Train Batch Loss:  0.554 ; Time elapsed:  34155.86
+Epoch  1024 Train Batch Loss:  0.552 ; Time elapsed:  34351.82
+Epoch  1025 Train Batch Loss:  0.553 ; Time elapsed:  34547.89
+Epoch  1026 Train Batch Loss:  0.554 Test Loss:  0.598 ; Time elapsed:  34744.62
+Epoch  1027 Train Batch Loss:  0.553 ; Time elapsed:  34941.25
+Epoch  1028 Train Batch Loss:  0.552 ; Time elapsed:  35138.01
+Epoch  1029 Train Batch Loss:  0.553 ; Time elapsed:  35335.35
+Epoch  1030 Train Batch Loss:  0.552 ; Time elapsed:  35531.54
+Epoch  1031 Train Batch Loss:  0.553 Test Loss:  0.598 ; Time elapsed:  35728.09
+Epoch  1032 Train Batch Loss:  0.551 ; Time elapsed:  35924.86
+Epoch  1033 Train Batch Loss:  0.551 ; Time elapsed:  36121.07
+Epoch  1034 Train Batch Loss:  0.553 ; Time elapsed:  36318.01
+Epoch  1035 Train Batch Loss:  0.552 ; Time elapsed:  36515.16
+Epoch  1036 Train Batch Loss:  0.551 Test Loss:  0.598 ; Time elapsed:  36711.33
+Epoch  1037 Train Batch Loss:  0.555 ; Time elapsed:  36907.77
+Epoch  1038 Train Batch Loss:  0.553 ; Time elapsed:  37104.53
+Epoch  1039 Train Batch Loss:  0.552 ; Time elapsed:  37300.75
+Epoch  1040 Train Batch Loss:  0.55 ; Time elapsed:  37497.36
+Epoch  1041 Train Batch Loss:  0.551 Test Loss:  0.598 ; Time elapsed:  37694.37
+Epoch  1042 Train Batch Loss:  0.55 ; Time elapsed:  37890.23
+Epoch  1043 Train Batch Loss:  0.553 ; Time elapsed:  38086.5
+Epoch  1044 Train Batch Loss:  0.551 ; Time elapsed:  38282.77
+Epoch  1045 Train Batch Loss:  0.554 ; Time elapsed:  38478.98
+Epoch  1046 Train Batch Loss:  0.551 Test Loss:  0.598 ; Time elapsed:  38675.88
+Epoch  1047 Train Batch Loss:  0.553 ; Time elapsed:  38873.38
+Epoch  1048 Train Batch Loss:  0.553 ; Time elapsed:  39070.49
+Epoch  1049 Train Batch Loss:  0.551 ; Time elapsed:  39269.21
+Epoch  1050 Train Batch Loss:  0.552 ; Time elapsed:  39466.05
+Epoch  1051 Train Batch Loss:  0.553 Test Loss:  0.598 ; Time elapsed:  39662.59
+Epoch  1052 Train Batch Loss:  0.552 ; Time elapsed:  39860.14
+Epoch  1053 Train Batch Loss:  0.554 ; Time elapsed:  40056.84
+Epoch  1054 Train Batch Loss:  0.553 ; Time elapsed:  40254.47
+Epoch  1055 Train Batch Loss:  0.553 ; Time elapsed:  40451.47
+Epoch  1056 Train Batch Loss:  0.553 Test Loss:  0.598 ; Time elapsed:  40650.19
+Epoch  1057 Train Batch Loss:  0.554 ; Time elapsed:  40849.77
+Epoch  1058 Train Batch Loss:  0.555 ; Time elapsed:  41051.6
+Epoch  1059 Train Batch Loss:  0.552 ; Time elapsed:  41251.87
+Epoch  1060 Train Batch Loss:  0.552 ; Time elapsed:  41451.03
+Epoch  1061 Train Batch Loss:  0.553 Test Loss:  0.598 ; Time elapsed:  41652.0
+Epoch  1062 Train Batch Loss:  0.553 ; Time elapsed:  41852.42
+Epoch  1063 Train Batch Loss:  0.555 ; Time elapsed:  42050.43
+Epoch  1064 Train Batch Loss:  0.553 ; Time elapsed:  42250.79
+Epoch  1065 Train Batch Loss:  0.551 ; Time elapsed:  42451.3
+Epoch  1066 Train Batch Loss:  0.553 Test Loss:  0.6 ; Time elapsed:  42649.37
+Epoch  1067 Train Batch Loss:  0.555 ; Time elapsed:  42846.68
+Epoch  1068 Train Batch Loss:  0.551 ; Time elapsed:  43043.92
+Epoch  1069 Train Batch Loss:  0.55 ; Time elapsed:  43240.61
+Epoch  1070 Train Batch Loss:  0.55 ; Time elapsed:  43438.31
+Epoch  1071 Train Batch Loss:  0.552 Test Loss:  0.598 ; Time elapsed:  43635.8
+Epoch  1072 Train Batch Loss:  0.551 ; Time elapsed:  43832.17
+Epoch  1073 Train Batch Loss:  0.553 ; Time elapsed:  44029.52
+Epoch  1074 Train Batch Loss:  0.555 ; Time elapsed:  44228.02
+Epoch  1075 Train Batch Loss:  0.552 ; Time elapsed:  44427.21
+Epoch  1076 Train Batch Loss:  0.554 Test Loss:  0.598 ; Time elapsed:  44626.14
+Epoch  1077 Train Batch Loss:  0.55 ; Time elapsed:  44824.58
+Epoch  1078 Train Batch Loss:  0.555 ; Time elapsed:  45022.6
+Epoch  1079 Train Batch Loss:  0.555 ; Time elapsed:  45219.77
+Epoch  1080 Train Batch Loss:  0.555 ; Time elapsed:  45417.63
+Epoch  1081 Train Batch Loss:  0.554 Test Loss:  0.598 ; Time elapsed:  45616.14
+Epoch  1082 Train Batch Loss:  0.552 ; Time elapsed:  45813.15
+Epoch  1083 Train Batch Loss:  0.554 ; Time elapsed:  46011.89
+Epoch  1084 Train Batch Loss:  0.554 ; Time elapsed:  46208.6
+Epoch  1085 Train Batch Loss:  0.555 ; Time elapsed:  46405.39
+Epoch  1086 Train Batch Loss:  0.553 Test Loss:  0.598 ; Time elapsed:  46602.79
+Epoch  1087 Train Batch Loss:  0.555 ; Time elapsed:  46799.82
+Epoch  1088 Train Batch Loss:  0.553 ; Time elapsed:  46996.71
+Epoch  1089 Train Batch Loss:  0.556 ; Time elapsed:  47194.32
+Epoch  1090 Train Batch Loss:  0.551 ; Time elapsed:  47390.96
+Epoch  1091 Train Batch Loss:  0.553 Test Loss:  0.598 ; Time elapsed:  47589.24
+Epoch  1092 Train Batch Loss:  0.554 ; Time elapsed:  47786.55
+Epoch  1093 Train Batch Loss:  0.553 ; Time elapsed:  47982.97
+Epoch  1094 Train Batch Loss:  0.552 ; Time elapsed:  48179.23
+Epoch  1095 Train Batch Loss:  0.554 ; Time elapsed:  48375.4
+Epoch  1096 Train Batch Loss:  0.555 Test Loss:  0.598 ; Time elapsed:  48572.8
+Epoch  1097 Train Batch Loss:  0.554 ; Time elapsed:  48769.32
+Epoch  1098 Train Batch Loss:  0.555 ; Time elapsed:  48965.79
+Epoch  1099 Train Batch Loss:  0.554 ; Time elapsed:  49162.85
+Epoch  1100 Train Batch Loss:  0.556 ; Time elapsed:  49359.75
+Epoch  1101 Train Batch Loss:  0.554 Test Loss:  0.598 ; Time elapsed:  49557.77
+Epoch  1102 Train Batch Loss:  0.552 ; Time elapsed:  49755.53
+Epoch  1103 Train Batch Loss:  0.554 ; Time elapsed:  49951.89
+Epoch  1104 Train Batch Loss:  0.554 ; Time elapsed:  50149.53
+Epoch  1105 Train Batch Loss:  0.555 ; Time elapsed:  50346.83
+Epoch  1106 Train Batch Loss:  0.555 Test Loss:  0.598 ; Time elapsed:  50544.29
+Epoch  1107 Train Batch Loss:  0.554 ; Time elapsed:  50742.53
+Epoch  1108 Train Batch Loss:  0.553 ; Time elapsed:  50940.48
+Epoch  1109 Train Batch Loss:  0.553 ; Time elapsed:  51139.81
+Epoch  1110 Train Batch Loss:  0.553 ; Time elapsed:  51338.86
+Epoch  1111 Train Batch Loss:  0.552 Test Loss:  0.598 ; Time elapsed:  51538.25
+Epoch  1112 Train Batch Loss:  0.556 ; Time elapsed:  51736.37
+Epoch  1113 Train Batch Loss:  0.557 ; Time elapsed:  51935.48
+Epoch  1114 Train Batch Loss:  0.551 ; Time elapsed:  52135.32
+Epoch  1115 Train Batch Loss:  0.553 ; Time elapsed:  52332.74
+Epoch  1116 Train Batch Loss:  0.554 Test Loss:  0.598 ; Time elapsed:  52534.0
+Epoch  1117 Train Batch Loss:  0.552 ; Time elapsed:  52735.23
+Epoch  1118 Train Batch Loss:  0.556 ; Time elapsed:  52935.67
+Epoch  1119 Train Batch Loss:  0.556 ; Time elapsed:  53137.45
+Epoch  1120 Train Batch Loss:  0.556 ; Time elapsed:  53339.07
+Epoch  1121 Train Batch Loss:  0.556 Test Loss:  0.598 ; Time elapsed:  53539.64
+Epoch  1122 Train Batch Loss:  0.554 ; Time elapsed:  53742.9
+Epoch  1123 Train Batch Loss:  0.556 ; Time elapsed:  53945.6
+Epoch  1124 Train Batch Loss:  0.555 ; Time elapsed:  54148.04
+Epoch  1125 Train Batch Loss:  0.554 ; Time elapsed:  54347.71
+Epoch  1126 Train Batch Loss:  0.552 Test Loss:  0.598 ; Time elapsed:  54548.82
+Epoch  1127 Train Batch Loss:  0.557 ; Time elapsed:  54748.83
+Epoch  1128 Train Batch Loss:  0.552 ; Time elapsed:  54947.51
+Epoch  1129 Train Batch Loss:  0.553 ; Time elapsed:  55146.39
+Epoch  1130 Train Batch Loss:  0.556 ; Time elapsed:  55345.43
+Epoch  1131 Train Batch Loss:  0.555 Test Loss:  0.598 ; Time elapsed:  55545.45
+Epoch  1132 Train Batch Loss:  0.556 ; Time elapsed:  55744.29
+Epoch  1133 Train Batch Loss:  0.556 ; Time elapsed:  55944.21
+Epoch  1134 Train Batch Loss:  0.553 ; Time elapsed:  56142.73
+Epoch  1135 Train Batch Loss:  0.553 ; Time elapsed:  56340.59
+Epoch  1136 Train Batch Loss:  0.558 Test Loss:  0.601 ; Time elapsed:  56538.06
+Epoch  1137 Train Batch Loss:  0.555 ; Time elapsed:  56737.12
+Epoch  1138 Train Batch Loss:  0.553 ; Time elapsed:  56933.43
+Epoch  1139 Train Batch Loss:  0.555 ; Time elapsed:  57129.68
+Epoch  1140 Train Batch Loss:  0.553 ; Time elapsed:  57327.66
+Epoch  1141 Train Batch Loss:  0.558 Test Loss:  0.598 ; Time elapsed:  57526.49
+Epoch  1142 Train Batch Loss:  0.556 ; Time elapsed:  57725.58
+Epoch  1143 Train Batch Loss:  0.554 ; Time elapsed:  57924.73
+Epoch  1144 Train Batch Loss:  0.554 ; Time elapsed:  58123.2
+Epoch  1145 Train Batch Loss:  0.552 ; Time elapsed:  58321.8
+Epoch  1146 Train Batch Loss:  0.552 Test Loss:  0.598 ; Time elapsed:  58521.27
+Epoch  1147 Train Batch Loss:  0.554 ; Time elapsed:  58719.05
+Epoch  1148 Train Batch Loss:  0.552 ; Time elapsed:  58918.44
+Epoch  1149 Train Batch Loss:  0.552 ; Time elapsed:  59116.54
+Epoch  1150 Train Batch Loss:  0.554 ; Time elapsed:  59316.48
+Epoch  1151 Train Batch Loss:  0.556 Test Loss:  0.598 ; Time elapsed:  59515.05
+Epoch  1152 Train Batch Loss:  0.554 ; Time elapsed:  59714.31
+Epoch  1153 Train Batch Loss:  0.555 ; Time elapsed:  59914.96
+Epoch  1154 Train Batch Loss:  0.553 ; Time elapsed:  60113.89
+Epoch  1155 Train Batch Loss:  0.556 ; Time elapsed:  60313.98
+Epoch  1156 Train Batch Loss:  0.552 Test Loss:  0.599 ; Time elapsed:  60512.48
+Epoch  1157 Train Batch Loss:  0.555 ; Time elapsed:  60710.28
+Epoch  1158 Train Batch Loss:  0.553 ; Time elapsed:  60909.65
+Epoch  1159 Train Batch Loss:  0.555 ; Time elapsed:  61109.5
+Epoch  1160 Train Batch Loss:  0.555 ; Time elapsed:  61308.4
+Epoch  1161 Train Batch Loss:  0.555 Test Loss:  0.598 ; Time elapsed:  61506.65
+Epoch  1162 Train Batch Loss:  0.552 ; Time elapsed:  61704.92
+Epoch  1163 Train Batch Loss:  0.557 ; Time elapsed:  61903.25
+Epoch  1164 Train Batch Loss:  0.556 ; Time elapsed:  62102.21
+Epoch  1165 Train Batch Loss:  0.555 ; Time elapsed:  62300.19
+Epoch  1166 Train Batch Loss:  0.555 Test Loss:  0.598 ; Time elapsed:  62497.94
+Epoch  1167 Train Batch Loss:  0.556 ; Time elapsed:  62694.77
+Epoch  1168 Train Batch Loss:  0.554 ; Time elapsed:  62891.49
+Epoch  1169 Train Batch Loss:  0.559 ; Time elapsed:  63087.81
+Epoch  1170 Train Batch Loss:  0.554 ; Time elapsed:  63284.81
+Epoch  1171 Train Batch Loss:  0.557 Test Loss:  0.598 ; Time elapsed:  63481.73
+Epoch  1172 Train Batch Loss:  0.553 ; Time elapsed:  63678.16
+Epoch  1173 Train Batch Loss:  0.553 ; Time elapsed:  63873.97
+Epoch  1174 Train Batch Loss:  0.554 ; Time elapsed:  64070.21
+Epoch  1175 Train Batch Loss:  0.556 ; Time elapsed:  64266.0
+Epoch  1176 Train Batch Loss:  0.556 Test Loss:  0.598 ; Time elapsed:  64463.37
+Epoch  1177 Train Batch Loss:  0.556 ; Time elapsed:  64659.6
+Epoch  1178 Train Batch Loss:  0.556 ; Time elapsed:  64856.01
+Epoch  1179 Train Batch Loss:  0.555 ; Time elapsed:  65051.72
+Epoch  1180 Train Batch Loss:  0.554 ; Time elapsed:  65248.04
+Epoch  1181 Train Batch Loss:  0.56 Test Loss:  0.598 ; Time elapsed:  65444.49
+Epoch  1182 Train Batch Loss:  0.556 ; Time elapsed:  65641.5
+Epoch  1183 Train Batch Loss:  0.556 ; Time elapsed:  65837.76
+Epoch  1184 Train Batch Loss:  0.556 ; Time elapsed:  66034.01
+Epoch  1185 Train Batch Loss:  0.555 ; Time elapsed:  66230.17
+Epoch  1186 Train Batch Loss:  0.556 Test Loss:  0.598 ; Time elapsed:  66427.8
+Epoch  1187 Train Batch Loss:  0.553 ; Time elapsed:  66624.0
+Epoch  1188 Train Batch Loss:  0.552 ; Time elapsed:  66820.37
+Epoch  1189 Train Batch Loss:  0.556 ; Time elapsed:  67017.88
+Epoch  1190 Train Batch Loss:  0.555 ; Time elapsed:  67215.09
+Epoch  1191 Train Batch Loss:  0.554 Test Loss:  0.598 ; Time elapsed:  67411.67
+Epoch  1192 Train Batch Loss:  0.555 ; Time elapsed:  67608.92
+Epoch  1193 Train Batch Loss:  0.556 ; Time elapsed:  67805.39
+Epoch  1194 Train Batch Loss:  0.557 ; Time elapsed:  68002.25
+Epoch  1195 Train Batch Loss:  0.552 ; Time elapsed:  68199.42
+Epoch  1196 Train Batch Loss:  0.554 Test Loss:  0.598 ; Time elapsed:  68396.88
+Epoch  1197 Train Batch Loss:  0.556 ; Time elapsed:  68593.91
+Epoch  1198 Train Batch Loss:  0.556 ; Time elapsed:  68790.57
+Epoch  1199 Train Batch Loss:  0.555 ; Time elapsed:  68987.57
+Epoch  1200 Train Batch Loss:  0.557 ; Time elapsed:  69186.01
+Epoch  1201 Train Batch Loss:  0.556 Test Loss:  0.598 ; Time elapsed:  69384.38
+Epoch  1202 Train Batch Loss:  0.557 ; Time elapsed:  69582.79
+Epoch  1203 Train Batch Loss:  0.557 ; Time elapsed:  69781.92
+Epoch  1204 Train Batch Loss:  0.555 ; Time elapsed:  69981.92
+Epoch  1205 Train Batch Loss:  0.554 ; Time elapsed:  70182.51
+Epoch  1206 Train Batch Loss:  0.552 Test Loss:  0.598 ; Time elapsed:  70380.71
+Epoch  1207 Train Batch Loss:  0.555 ; Time elapsed:  70579.55
+Epoch  1208 Train Batch Loss:  0.557 ; Time elapsed:  70778.76
+Epoch  1209 Train Batch Loss:  0.556 ; Time elapsed:  70976.44
+Epoch  1210 Train Batch Loss:  0.555 ; Time elapsed:  71175.13
+Epoch  1211 Train Batch Loss:  0.554 Test Loss:  0.598 ; Time elapsed:  71373.37
+Epoch  1212 Train Batch Loss:  0.556 ; Time elapsed:  71570.27
+Epoch  1213 Train Batch Loss:  0.555 ; Time elapsed:  71768.75
+Epoch  1214 Train Batch Loss:  0.554 ; Time elapsed:  71966.94
+Epoch  1215 Train Batch Loss:  0.554 ; Time elapsed:  72165.29
+Epoch  1216 Train Batch Loss:  0.555 Test Loss:  0.599 ; Time elapsed:  72363.1
+Epoch  1217 Train Batch Loss:  0.556 ; Time elapsed:  72559.99
+Epoch  1218 Train Batch Loss:  0.553 ; Time elapsed:  72758.59
+Epoch  1219 Train Batch Loss:  0.555 ; Time elapsed:  72955.79
+Epoch  1220 Train Batch Loss:  0.559 ; Time elapsed:  73153.59
+Epoch  1221 Train Batch Loss:  0.555 Test Loss:  0.598 ; Time elapsed:  73352.27
+Epoch  1222 Train Batch Loss:  0.558 ; Time elapsed:  73550.07
+Epoch  1223 Train Batch Loss:  0.555 ; Time elapsed:  73749.1
+Epoch  1224 Train Batch Loss:  0.556 ; Time elapsed:  73946.49
+Epoch  1225 Train Batch Loss:  0.556 ; Time elapsed:  74146.1
+Epoch  1226 Train Batch Loss:  0.554 Test Loss:  0.598 ; Time elapsed:  74345.17
+Epoch  1227 Train Batch Loss:  0.557 ; Time elapsed:  74542.38
+Epoch  1228 Train Batch Loss:  0.559 ; Time elapsed:  74738.92
+Epoch  1229 Train Batch Loss:  0.557 ; Time elapsed:  74935.71
+Epoch  1230 Train Batch Loss:  0.559 ; Time elapsed:  75131.84
+Epoch  1231 Train Batch Loss:  0.556 Test Loss:  0.598 ; Time elapsed:  75330.91
+Epoch  1232 Train Batch Loss:  0.558 ; Time elapsed:  75528.77
+Epoch  1233 Train Batch Loss:  0.554 ; Time elapsed:  75725.76
+Epoch  1234 Train Batch Loss:  0.554 ; Time elapsed:  75921.62
+Epoch  1235 Train Batch Loss:  0.551 ; Time elapsed:  76118.18
+Epoch  1236 Train Batch Loss:  0.555 Test Loss:  0.598 ; Time elapsed:  76314.7
+Epoch  1237 Train Batch Loss:  0.554 ; Time elapsed:  76511.92
+Epoch  1238 Train Batch Loss:  0.558 ; Time elapsed:  76708.59
+Epoch  1239 Train Batch Loss:  0.555 ; Time elapsed:  76904.24
+Epoch  1240 Train Batch Loss:  0.558 ; Time elapsed:  77100.73
+Epoch  1241 Train Batch Loss:  0.555 Test Loss:  0.598 ; Time elapsed:  77297.23
+Epoch  1242 Train Batch Loss:  0.554 ; Time elapsed:  77493.29
+Epoch  1243 Train Batch Loss:  0.555 ; Time elapsed:  77689.68
+Epoch  1244 Train Batch Loss:  0.556 ; Time elapsed:  77885.93
+Epoch  1245 Train Batch Loss:  0.561 ; Time elapsed:  78082.17
+Epoch  1246 Train Batch Loss:  0.558 Test Loss:  0.598 ; Time elapsed:  78278.79
+Epoch  1247 Train Batch Loss:  0.558 ; Time elapsed:  78475.04
+Epoch  1248 Train Batch Loss:  0.558 ; Time elapsed:  78670.91
+Epoch  1249 Train Batch Loss:  0.559 ; Time elapsed:  78867.29
+Epoch  1250 Train Batch Loss:  0.557 ; Time elapsed:  79063.74
+Epoch  1251 Train Batch Loss:  0.556 Test Loss:  0.598 ; Time elapsed:  79260.67
+Epoch  1252 Train Batch Loss:  0.554 ; Time elapsed:  79457.9
+Epoch  1253 Train Batch Loss:  0.554 ; Time elapsed:  79655.78
+Epoch  1254 Train Batch Loss:  0.555 ; Time elapsed:  79853.05
+Epoch  1255 Train Batch Loss:  0.552 ; Time elapsed:  80050.43
+Epoch  1256 Train Batch Loss:  0.557 Test Loss:  0.598 ; Time elapsed:  80248.1
+Epoch  1257 Train Batch Loss:  0.559 ; Time elapsed:  80446.24
+Epoch  1258 Train Batch Loss:  0.555 ; Time elapsed:  80645.32
+Epoch  1259 Train Batch Loss:  0.556 ; Time elapsed:  80844.3
+Epoch  1260 Train Batch Loss:  0.558 ; Time elapsed:  81042.77
+Epoch  1261 Train Batch Loss:  0.562 Test Loss:  0.598 ; Time elapsed:  81240.78
+Epoch  1262 Train Batch Loss:  0.557 ; Time elapsed:  81439.52
+Epoch  1263 Train Batch Loss:  0.554 ; Time elapsed:  81636.04
+Epoch  1264 Train Batch Loss:  0.557 ; Time elapsed:  81836.05
+Epoch  1265 Train Batch Loss:  0.553 ; Time elapsed:  82034.13
+Epoch  1266 Train Batch Loss:  0.555 Test Loss:  0.598 ; Time elapsed:  82232.98
+Epoch  1267 Train Batch Loss:  0.555 ; Time elapsed:  82430.26
+Epoch  1268 Train Batch Loss:  0.557 ; Time elapsed:  82628.46
+Epoch  1269 Train Batch Loss:  0.556 ; Time elapsed:  82824.71
+Epoch  1270 Train Batch Loss:  0.559 ; Time elapsed:  83021.88
+Epoch  1271 Train Batch Loss:  0.556 Test Loss:  0.599 ; Time elapsed:  83219.26
+Epoch  1272 Train Batch Loss:  0.557 ; Time elapsed:  83415.54
+Epoch  1273 Train Batch Loss:  0.558 ; Time elapsed:  83611.97
+Epoch  1274 Train Batch Loss:  0.557 ; Time elapsed:  83810.26
+Epoch  1275 Train Batch Loss:  0.555 ; Time elapsed:  84006.56
+Epoch  1276 Train Batch Loss:  0.555 Test Loss:  0.598 ; Time elapsed:  84203.2
+Epoch  1277 Train Batch Loss:  0.556 ; Time elapsed:  84400.0
+Epoch  1278 Train Batch Loss:  0.557 ; Time elapsed:  84597.57
+Epoch  1279 Train Batch Loss:  0.559 ; Time elapsed:  84793.92
+Epoch  1280 Train Batch Loss:  0.559 ; Time elapsed:  84990.23
+Epoch  1281 Train Batch Loss:  0.559 Test Loss:  0.598 ; Time elapsed:  85186.36
+Epoch  1282 Train Batch Loss:  0.556 ; Time elapsed:  85383.36
+Epoch  1283 Train Batch Loss:  0.56 ; Time elapsed:  85580.32
+Epoch  1284 Train Batch Loss:  0.556 ; Time elapsed:  85776.78
+Epoch  1285 Train Batch Loss:  0.555 ; Time elapsed:  85973.62
+Epoch  1286 Train Batch Loss:  0.557 Test Loss:  0.598 ; Time elapsed:  86171.59
+Epoch  1287 Train Batch Loss:  0.56 ; Time elapsed:  86368.72
+Epoch  1288 Train Batch Loss:  0.557 ; Time elapsed:  86565.0
+Epoch  1289 Train Batch Loss:  0.557 ; Time elapsed:  86762.0
+Epoch  1290 Train Batch Loss:  0.557 ; Time elapsed:  86958.71
+Epoch  1291 Train Batch Loss:  0.556 Test Loss:  0.598 ; Time elapsed:  87155.34
+Epoch  1292 Train Batch Loss:  0.555 ; Time elapsed:  87353.43
+Epoch  1293 Train Batch Loss:  0.557 ; Time elapsed:  87550.18
+Epoch  1294 Train Batch Loss:  0.558 ; Time elapsed:  87746.94
+Epoch  1295 Train Batch Loss:  0.556 ; Time elapsed:  87945.23
+Epoch  1296 Train Batch Loss:  0.558 Test Loss:  0.6 ; Time elapsed:  88143.29
+Epoch  1297 Train Batch Loss:  0.559 ; Time elapsed:  88339.9
+Epoch  1298 Train Batch Loss:  0.557 ; Time elapsed:  88536.84
+Epoch  1299 Train Batch Loss:  0.561 ; Time elapsed:  88733.11
+Epoch  1300 Train Batch Loss:  0.558 ; Time elapsed:  88930.67
+Epoch  1301 Train Batch Loss:  0.559 Test Loss:  0.598 ; Time elapsed:  89127.95
+Epoch  1302 Train Batch Loss:  0.555 ; Time elapsed:  89324.24
+Epoch  1303 Train Batch Loss:  0.559 ; Time elapsed:  89520.81
+Epoch  1304 Train Batch Loss:  0.56 ; Time elapsed:  89717.93
+Epoch  1305 Train Batch Loss:  0.558 ; Time elapsed:  89914.2
+Epoch  1306 Train Batch Loss:  0.558 Test Loss:  0.599 ; Time elapsed:  90110.74
+Epoch  1307 Train Batch Loss:  0.555 ; Time elapsed:  90307.48
+Epoch  1308 Train Batch Loss:  0.558 ; Time elapsed:  90503.78
+Epoch  1309 Train Batch Loss:  0.561 ; Time elapsed:  90699.94
+Epoch  1310 Train Batch Loss:  0.56 ; Time elapsed:  90896.36
+Epoch  1311 Train Batch Loss:  0.559 Test Loss:  0.598 ; Time elapsed:  91093.43
+Epoch  1312 Train Batch Loss:  0.557 ; Time elapsed:  91289.96
+Epoch  1313 Train Batch Loss:  0.557 ; Time elapsed:  91487.69
+Epoch  1314 Train Batch Loss:  0.558 ; Time elapsed:  91684.17
+Epoch  1315 Train Batch Loss:  0.555 ; Time elapsed:  91881.83
+Epoch  1316 Train Batch Loss:  0.559 Test Loss:  0.598 ; Time elapsed:  92079.17
+Epoch  1317 Train Batch Loss:  0.555 ; Time elapsed:  92276.62
+Epoch  1318 Train Batch Loss:  0.566 ; Time elapsed:  92473.18
+Epoch  1319 Train Batch Loss:  0.556 ; Time elapsed:  92671.11
+Epoch  1320 Train Batch Loss:  0.556 ; Time elapsed:  92868.54
+Epoch  1321 Train Batch Loss:  0.56 Test Loss:  0.598 ; Time elapsed:  93066.02
+Epoch  1322 Train Batch Loss:  0.562 ; Time elapsed:  93263.64
+Epoch  1323 Train Batch Loss:  0.559 ; Time elapsed:  93462.06
+Epoch  1324 Train Batch Loss:  0.557 ; Time elapsed:  93658.5
+Epoch  1325 Train Batch Loss:  0.559 ; Time elapsed:  93854.81
+Epoch  1326 Train Batch Loss:  0.557 Test Loss:  0.598 ; Time elapsed:  94052.57
+Epoch  1327 Train Batch Loss:  0.558 ; Time elapsed:  94249.88
+Epoch  1328 Train Batch Loss:  0.555 ; Time elapsed:  94447.7
+Epoch  1329 Train Batch Loss:  0.559 ; Time elapsed:  94645.94
+Epoch  1330 Train Batch Loss:  0.557 ; Time elapsed:  94843.31
+Epoch  1331 Train Batch Loss:  0.562 Test Loss:  0.598 ; Time elapsed:  95041.82
+Epoch  1332 Train Batch Loss:  0.559 ; Time elapsed:  95239.44
+Epoch  1333 Train Batch Loss:  0.556 ; Time elapsed:  95437.31
+Epoch  1334 Train Batch Loss:  0.556 ; Time elapsed:  95634.61
+Epoch  1335 Train Batch Loss:  0.56 ; Time elapsed:  95833.35
+Epoch  1336 Train Batch Loss:  0.561 Test Loss:  0.603 ; Time elapsed:  96031.68
+Epoch  1337 Train Batch Loss:  0.56 ; Time elapsed:  96228.45
+Epoch  1338 Train Batch Loss:  0.559 ; Time elapsed:  96426.67
+Epoch  1339 Train Batch Loss:  0.556 ; Time elapsed:  96624.14
+Epoch  1340 Train Batch Loss:  0.559 ; Time elapsed:  96821.55
+Epoch  1341 Train Batch Loss:  0.558 Test Loss:  0.598 ; Time elapsed:  97018.99
+Epoch  1342 Train Batch Loss:  0.556 ; Time elapsed:  97216.04
+Epoch  1343 Train Batch Loss:  0.559 ; Time elapsed:  97413.71
+Epoch  1344 Train Batch Loss:  0.559 ; Time elapsed:  97610.96
+Epoch  1345 Train Batch Loss:  0.556 ; Time elapsed:  97807.26
+Epoch  1346 Train Batch Loss:  0.56 Test Loss:  0.598 ; Time elapsed:  98003.93
+Epoch  1347 Train Batch Loss:  0.56 ; Time elapsed:  98201.54
+Epoch  1348 Train Batch Loss:  0.559 ; Time elapsed:  98398.54
+Epoch  1349 Train Batch Loss:  0.558 ; Time elapsed:  98595.11
+Epoch  1350 Train Batch Loss:  0.563 ; Time elapsed:  98792.61
+Epoch  1351 Train Batch Loss:  0.56 Test Loss:  0.598 ; Time elapsed:  98990.8
+Epoch  1352 Train Batch Loss:  0.555 ; Time elapsed:  99190.68
+Epoch  1353 Train Batch Loss:  0.561 ; Time elapsed:  99388.18
+Epoch  1354 Train Batch Loss:  0.557 ; Time elapsed:  99584.78
+Epoch  1355 Train Batch Loss:  0.558 ; Time elapsed:  99781.6
+Epoch  1356 Train Batch Loss:  0.557 Test Loss:  0.598 ; Time elapsed:  99980.52
+Epoch  1357 Train Batch Loss:  0.56 ; Time elapsed:  100177.71
+Epoch  1358 Train Batch Loss:  0.561 ; Time elapsed:  100374.17
+Epoch  1359 Train Batch Loss:  0.561 ; Time elapsed:  100572.16
+Epoch  1360 Train Batch Loss:  0.561 ; Time elapsed:  100768.65
+Epoch  1361 Train Batch Loss:  0.56 Test Loss:  0.599 ; Time elapsed:  100965.62
+Epoch  1362 Train Batch Loss:  0.557 ; Time elapsed:  101162.47
+Epoch  1363 Train Batch Loss:  0.558 ; Time elapsed:  101360.47
+Epoch  1364 Train Batch Loss:  0.556 ; Time elapsed:  101558.59
+Epoch  1365 Train Batch Loss:  0.554 ; Time elapsed:  101755.31
+Epoch  1366 Train Batch Loss:  0.556 Test Loss:  0.6 ; Time elapsed:  101953.54
+Epoch  1367 Train Batch Loss:  0.556 ; Time elapsed:  102149.94
+Epoch  1368 Train Batch Loss:  0.56 ; Time elapsed:  102347.63
+Epoch  1369 Train Batch Loss:  0.558 ; Time elapsed:  102545.3
+Epoch  1370 Train Batch Loss:  0.556 ; Time elapsed:  102741.92
+Epoch  1371 Train Batch Loss:  0.554 Test Loss:  0.599 ; Time elapsed:  102938.78
+Epoch  1372 Train Batch Loss:  0.562 ; Time elapsed:  103136.6
+Epoch  1373 Train Batch Loss:  0.56 ; Time elapsed:  103333.61
+Epoch  1374 Train Batch Loss:  0.56 ; Time elapsed:  103530.24
+Epoch  1375 Train Batch Loss:  0.556 ; Time elapsed:  103727.1
+Epoch  1376 Train Batch Loss:  0.561 Test Loss:  0.6 ; Time elapsed:  103924.38
+Epoch  1377 Train Batch Loss:  0.56 ; Time elapsed:  104120.67
+Epoch  1378 Train Batch Loss:  0.563 ; Time elapsed:  104317.26
+Epoch  1379 Train Batch Loss:  0.56 ; Time elapsed:  104513.77
+Epoch  1380 Train Batch Loss:  0.561 ; Time elapsed:  104711.45
+Epoch  1381 Train Batch Loss:  0.555 Test Loss:  0.598 ; Time elapsed:  104908.55
+Epoch  1382 Train Batch Loss:  0.559 ; Time elapsed:  105104.93
+Epoch  1383 Train Batch Loss:  0.557 ; Time elapsed:  105301.67
+Epoch  1384 Train Batch Loss:  0.559 ; Time elapsed:  105498.33
+Epoch  1385 Train Batch Loss:  0.562 ; Time elapsed:  105694.38
+Epoch  1386 Train Batch Loss:  0.558 Test Loss:  0.598 ; Time elapsed:  105891.8
+Epoch  1387 Train Batch Loss:  0.559 ; Time elapsed:  106088.37
+Epoch  1388 Train Batch Loss:  0.56 ; Time elapsed:  106285.58
+Epoch  1389 Train Batch Loss:  0.562 ; Time elapsed:  106482.67
+Epoch  1390 Train Batch Loss:  0.56 ; Time elapsed:  106679.45
+Epoch  1391 Train Batch Loss:  0.561 Test Loss:  0.598 ; Time elapsed:  106876.01
+Epoch  1392 Train Batch Loss:  0.557 ; Time elapsed:  107072.74
+Epoch  1393 Train Batch Loss:  0.563 ; Time elapsed:  107268.98
+Epoch  1394 Train Batch Loss:  0.559 ; Time elapsed:  107465.31
+Epoch  1395 Train Batch Loss:  0.564 ; Time elapsed:  107662.3
+Epoch  1396 Train Batch Loss:  0.562 Test Loss:  0.599 ; Time elapsed:  107858.98
+Epoch  1397 Train Batch Loss:  0.557 ; Time elapsed:  108055.76
+Epoch  1398 Train Batch Loss:  0.558 ; Time elapsed:  108252.01
+Epoch  1399 Train Batch Loss:  0.558 ; Time elapsed:  108448.3
+Epoch  1400 Train Batch Loss:  0.562 ; Time elapsed:  108645.11
+Epoch  1401 Train Batch Loss:  0.559 Test Loss:  0.598 ; Time elapsed:  108841.78
+Epoch  1402 Train Batch Loss:  0.562 ; Time elapsed:  109038.07
+Epoch  1403 Train Batch Loss:  0.564 ; Time elapsed:  109234.43
+Epoch  1404 Train Batch Loss:  0.56 ; Time elapsed:  109430.73
+Epoch  1405 Train Batch Loss:  0.556 ; Time elapsed:  109628.07
+Epoch  1406 Train Batch Loss:  0.561 Test Loss:  0.598 ; Time elapsed:  109824.67
+Epoch  1407 Train Batch Loss:  0.562 ; Time elapsed:  110021.01
+Epoch  1408 Train Batch Loss:  0.56 ; Time elapsed:  110219.22
+Epoch  1409 Train Batch Loss:  0.561 ; Time elapsed:  110415.5
+Epoch  1410 Train Batch Loss:  0.56 ; Time elapsed:  110611.87
+Epoch  1411 Train Batch Loss:  0.557 Test Loss:  0.599 ; Time elapsed:  110808.55
+Epoch  1412 Train Batch Loss:  0.556 ; Time elapsed:  111006.92
+Epoch  1413 Train Batch Loss:  0.562 ; Time elapsed:  111203.63
+Epoch  1414 Train Batch Loss:  0.56 ; Time elapsed:  111400.41
+Epoch  1415 Train Batch Loss:  0.56 ; Time elapsed:  111597.4
+Epoch  1416 Train Batch Loss:  0.558 Test Loss:  0.6 ; Time elapsed:  111793.77
+Epoch  1417 Train Batch Loss:  0.557 ; Time elapsed:  111991.75
+Epoch  1418 Train Batch Loss:  0.556 ; Time elapsed:  112188.53
+Epoch  1419 Train Batch Loss:  0.561 ; Time elapsed:  112384.87
+Epoch  1420 Train Batch Loss:  0.56 ; Time elapsed:  112581.6
+Epoch  1421 Train Batch Loss:  0.556 Test Loss:  0.6 ; Time elapsed:  112779.0
+Epoch  1422 Train Batch Loss:  0.557 ; Time elapsed:  112974.97
+Epoch  1423 Train Batch Loss:  0.559 ; Time elapsed:  113172.2
+Epoch  1424 Train Batch Loss:  0.563 ; Time elapsed:  113368.48
+Epoch  1425 Train Batch Loss:  0.566 ; Time elapsed:  113565.2
+Epoch  1426 Train Batch Loss:  0.56 Test Loss:  0.598 ; Time elapsed:  113762.66
+Epoch  1427 Train Batch Loss:  0.559 ; Time elapsed:  113959.89
+Epoch  1428 Train Batch Loss:  0.563 ; Time elapsed:  114156.29
+Epoch  1429 Train Batch Loss:  0.565 ; Time elapsed:  114355.02
+Epoch  1430 Train Batch Loss:  0.559 ; Time elapsed:  114553.65
+Epoch  1431 Train Batch Loss:  0.562 Test Loss:  0.598 ; Time elapsed:  114752.52
+Epoch  1432 Train Batch Loss:  0.564 ; Time elapsed:  114953.85
+Epoch  1433 Train Batch Loss:  0.559 ; Time elapsed:  115153.26
+Epoch  1434 Train Batch Loss:  0.561 ; Time elapsed:  115352.3
+Epoch  1435 Train Batch Loss:  0.559 ; Time elapsed:  115553.15
+Epoch  1436 Train Batch Loss:  0.565 Test Loss:  0.598 ; Time elapsed:  115753.51
+Epoch  1437 Train Batch Loss:  0.561 ; Time elapsed:  115953.69
+Epoch  1438 Train Batch Loss:  0.566 ; Time elapsed:  116153.05
+Epoch  1439 Train Batch Loss:  0.565 ; Time elapsed:  116352.67
+Epoch  1440 Train Batch Loss:  0.56 ; Time elapsed:  116551.5
+Epoch  1441 Train Batch Loss:  0.56 Test Loss:  0.598 ; Time elapsed:  116753.51
+Epoch  1442 Train Batch Loss:  0.559 ; Time elapsed:  116951.81
+Epoch  1443 Train Batch Loss:  0.561 ; Time elapsed:  117151.03
+Epoch  1444 Train Batch Loss:  0.562 ; Time elapsed:  117349.4
+Epoch  1445 Train Batch Loss:  0.561 ; Time elapsed:  117548.54
+Epoch  1446 Train Batch Loss:  0.56 Test Loss:  0.598 ; Time elapsed:  117746.27
+Epoch  1447 Train Batch Loss:  0.561 ; Time elapsed:  117944.0
+Epoch  1448 Train Batch Loss:  0.562 ; Time elapsed:  118142.33
+Epoch  1449 Train Batch Loss:  0.563 ; Time elapsed:  118340.38
+Epoch  1450 Train Batch Loss:  0.562 ; Time elapsed:  118537.23
+Epoch  1451 Train Batch Loss:  0.559 Test Loss:  0.597 ; Time elapsed:  118734.4
+Epoch  1452 Train Batch Loss:  0.564 ; Time elapsed:  118931.79
+Epoch  1453 Train Batch Loss:  0.561 ; Time elapsed:  119129.61
+Epoch  1454 Train Batch Loss:  0.561 ; Time elapsed:  119326.47
+Epoch  1455 Train Batch Loss:  0.558 ; Time elapsed:  119523.1
+Epoch  1456 Train Batch Loss:  0.558 Test Loss:  0.598 ; Time elapsed:  119722.06
+Epoch  1457 Train Batch Loss:  0.562 ; Time elapsed:  119920.45
+Epoch  1458 Train Batch Loss:  0.569 ; Time elapsed:  120117.13
+Epoch  1459 Train Batch Loss:  0.56 ; Time elapsed:  120313.96
+Epoch  1460 Train Batch Loss:  0.56 ; Time elapsed:  120511.78
+Epoch  1461 Train Batch Loss:  0.559 Test Loss:  0.598 ; Time elapsed:  120709.81
+Epoch  1462 Train Batch Loss:  0.564 ; Time elapsed:  120906.32
+Epoch  1463 Train Batch Loss:  0.564 ; Time elapsed:  121103.21
+Epoch  1464 Train Batch Loss:  0.563 ; Time elapsed:  121299.56
+Epoch  1465 Train Batch Loss:  0.565 ; Time elapsed:  121496.58
+Epoch  1466 Train Batch Loss:  0.563 Test Loss:  0.598 ; Time elapsed:  121693.52
+Epoch  1467 Train Batch Loss:  0.561 ; Time elapsed:  121889.46
+Epoch  1468 Train Batch Loss:  0.559 ; Time elapsed:  122086.41
+Epoch  1469 Train Batch Loss:  0.562 ; Time elapsed:  122283.85
+Epoch  1470 Train Batch Loss:  0.561 ; Time elapsed:  122480.59
+Epoch  1471 Train Batch Loss:  0.563 Test Loss:  0.598 ; Time elapsed:  122677.84
+Epoch  1472 Train Batch Loss:  0.563 ; Time elapsed:  122874.59
+Epoch  1473 Train Batch Loss:  0.562 ; Time elapsed:  123071.37
+Epoch  1474 Train Batch Loss:  0.564 ; Time elapsed:  123268.29
+Epoch  1475 Train Batch Loss:  0.565 ; Time elapsed:  123464.6
+Epoch  1476 Train Batch Loss:  0.562 Test Loss:  0.597 ; Time elapsed:  123661.82
+Epoch  1477 Train Batch Loss:  0.563 ; Time elapsed:  123859.66
+Epoch  1478 Train Batch Loss:  0.565 ; Time elapsed:  124058.05
+Epoch  1479 Train Batch Loss:  0.562 ; Time elapsed:  124254.59
+Epoch  1480 Train Batch Loss:  0.561 ; Time elapsed:  124452.4
+Epoch  1481 Train Batch Loss:  0.559 Test Loss:  0.598 ; Time elapsed:  124651.36
+Epoch  1482 Train Batch Loss:  0.561 ; Time elapsed:  124849.04
+Epoch  1483 Train Batch Loss:  0.564 ; Time elapsed:  125046.85
+Epoch  1484 Train Batch Loss:  0.563 ; Time elapsed:  125242.97
+Epoch  1485 Train Batch Loss:  0.566 ; Time elapsed:  125440.72
+Epoch  1486 Train Batch Loss:  0.562 Test Loss:  0.599 ; Time elapsed:  125639.8
+Epoch  1487 Train Batch Loss:  0.56 ; Time elapsed:  125837.8
+Epoch  1488 Train Batch Loss:  0.557 ; Time elapsed:  126034.48
+Epoch  1489 Train Batch Loss:  0.558 ; Time elapsed:  126231.94
+Epoch  1490 Train Batch Loss:  0.565 ; Time elapsed:  126430.84
+Epoch  1491 Train Batch Loss:  0.559 Test Loss:  0.6 ; Time elapsed:  126628.04
+Epoch  1492 Train Batch Loss:  0.56 ; Time elapsed:  126825.55
+Epoch  1493 Train Batch Loss:  0.559 ; Time elapsed:  127023.72
+Epoch  1494 Train Batch Loss:  0.56 ; Time elapsed:  127221.58
+Epoch  1495 Train Batch Loss:  0.563 ; Time elapsed:  127418.7
+Epoch  1496 Train Batch Loss:  0.566 Test Loss:  0.602 ; Time elapsed:  127617.43
+Epoch  1497 Train Batch Loss:  0.562 ; Time elapsed:  127815.32
+Epoch  1498 Train Batch Loss:  0.565 ; Time elapsed:  128012.47
+Epoch  1499 Train Batch Loss:  0.56 ; Time elapsed:  128211.65
+Epoch  1500 Train Batch Loss:  0.566 ; Time elapsed:  128408.78
+Epoch  1501 Train Batch Loss:  0.565 Test Loss:  0.601 ; Time elapsed:  128608.8
+Epoch  1502 Train Batch Loss:  0.568 ; Time elapsed:  128807.04
+Epoch  1503 Train Batch Loss:  0.564 ; Time elapsed:  129006.3
+Epoch  1504 Train Batch Loss:  0.562 ; Time elapsed:  129205.21
+Epoch  1505 Train Batch Loss:  0.564 ; Time elapsed:  129404.69
+Epoch  1506 Train Batch Loss:  0.565 Test Loss:  0.598 ; Time elapsed:  129604.43
+Epoch  1507 Train Batch Loss:  0.56 ; Time elapsed:  129801.9
+Epoch  1508 Train Batch Loss:  0.564 ; Time elapsed:  130000.49
+Epoch  1509 Train Batch Loss:  0.561 ; Time elapsed:  130199.29
+Epoch  1510 Train Batch Loss:  0.559 ; Time elapsed:  130396.49
+Epoch  1511 Train Batch Loss:  0.558 Test Loss:  0.598 ; Time elapsed:  130594.82
+Epoch  1512 Train Batch Loss:  0.561 ; Time elapsed:  130791.73
+Epoch  1513 Train Batch Loss:  0.567 ; Time elapsed:  130988.68
+Epoch  1514 Train Batch Loss:  0.566 ; Time elapsed:  131186.27
+Epoch  1515 Train Batch Loss:  0.561 ; Time elapsed:  131383.37
+Epoch  1516 Train Batch Loss:  0.566 Test Loss:  0.598 ; Time elapsed:  131580.14
+Epoch  1517 Train Batch Loss:  0.561 ; Time elapsed:  131778.19
+Epoch  1518 Train Batch Loss:  0.562 ; Time elapsed:  131976.03
+Epoch  1519 Train Batch Loss:  0.558 ; Time elapsed:  132172.45
+Epoch  1520 Train Batch Loss:  0.561 ; Time elapsed:  132369.37
+Epoch  1521 Train Batch Loss:  0.571 Test Loss:  0.599 ; Time elapsed:  132566.51
+Epoch  1522 Train Batch Loss:  0.561 ; Time elapsed:  132762.98
+Epoch  1523 Train Batch Loss:  0.559 ; Time elapsed:  132961.65
+Epoch  1524 Train Batch Loss:  0.563 ; Time elapsed:  133160.78
+Epoch  1525 Train Batch Loss:  0.561 ; Time elapsed:  133358.7
+Epoch  1526 Train Batch Loss:  0.572 Test Loss:  0.598 ; Time elapsed:  133558.4
+Epoch  1527 Train Batch Loss:  0.569 ; Time elapsed:  133755.92
+Epoch  1528 Train Batch Loss:  0.563 ; Time elapsed:  133953.74
+Epoch  1529 Train Batch Loss:  0.565 ; Time elapsed:  134152.49
+Epoch  1530 Train Batch Loss:  0.562 ; Time elapsed:  134353.12
+Epoch  1531 Train Batch Loss:  0.564 Test Loss:  0.598 ; Time elapsed:  134551.27
+Epoch  1532 Train Batch Loss:  0.56 ; Time elapsed:  134749.73
+Epoch  1533 Train Batch Loss:  0.56 ; Time elapsed:  134946.97
+Epoch  1534 Train Batch Loss:  0.564 ; Time elapsed:  135145.48
+Epoch  1535 Train Batch Loss:  0.561 ; Time elapsed:  135343.34
+Epoch  1536 Train Batch Loss:  0.565 Test Loss:  0.598 ; Time elapsed:  135540.59
+Epoch  1537 Train Batch Loss:  0.562 ; Time elapsed:  135738.27
+Epoch  1538 Train Batch Loss:  0.56 ; Time elapsed:  135937.05
+Epoch  1539 Train Batch Loss:  0.565 ; Time elapsed:  136134.67
+Epoch  1540 Train Batch Loss:  0.565 ; Time elapsed:  136331.95
+Epoch  1541 Train Batch Loss:  0.567 Test Loss:  0.599 ; Time elapsed:  136530.89
+Epoch  1542 Train Batch Loss:  0.564 ; Time elapsed:  136729.56
+Epoch  1543 Train Batch Loss:  0.565 ; Time elapsed:  136926.9
+Epoch  1544 Train Batch Loss:  0.565 ; Time elapsed:  137124.31
+Epoch  1545 Train Batch Loss:  0.564 ; Time elapsed:  137322.47
+Epoch  1546 Train Batch Loss:  0.57 Test Loss:  0.607 ; Time elapsed:  137522.73
+Epoch  1547 Train Batch Loss:  0.566 ; Time elapsed:  137721.56
+Epoch  1548 Train Batch Loss:  0.562 ; Time elapsed:  137920.49
+Epoch  1549 Train Batch Loss:  0.563 ; Time elapsed:  138118.28
+Epoch  1550 Train Batch Loss:  0.561 ; Time elapsed:  138318.62
+Epoch  1551 Train Batch Loss:  0.568 Test Loss:  0.598 ; Time elapsed:  138518.59
+Epoch  1552 Train Batch Loss:  0.567 ; Time elapsed:  138717.63
+Epoch  1553 Train Batch Loss:  0.561 ; Time elapsed:  138917.94
+Epoch  1554 Train Batch Loss:  0.56 ; Time elapsed:  139119.55
+Epoch  1555 Train Batch Loss:  0.56 ; Time elapsed:  139319.33
+Epoch  1556 Train Batch Loss:  0.566 Test Loss:  0.6 ; Time elapsed:  139518.03
+Epoch  1557 Train Batch Loss:  0.571 ; Time elapsed:  139717.96
+Epoch  1558 Train Batch Loss:  0.564 ; Time elapsed:  139918.7
+Epoch  1559 Train Batch Loss:  0.568 ; Time elapsed:  140118.3
+Epoch  1560 Train Batch Loss:  0.564 ; Time elapsed:  140317.38
+Epoch  1561 Train Batch Loss:  0.563 Test Loss:  0.598 ; Time elapsed:  140515.38
+Epoch  1562 Train Batch Loss:  0.562 ; Time elapsed:  140715.25
+Epoch  1563 Train Batch Loss:  0.562 ; Time elapsed:  140914.69
+Epoch  1564 Train Batch Loss:  0.562 ; Time elapsed:  141112.2
+Epoch  1565 Train Batch Loss:  0.561 ; Time elapsed:  141309.86
+Epoch  1566 Train Batch Loss:  0.565 Test Loss:  0.601 ; Time elapsed:  141508.42
+Epoch  1567 Train Batch Loss:  0.566 ; Time elapsed:  141706.96
+Epoch  1568 Train Batch Loss:  0.57 ; Time elapsed:  141903.44
+Epoch  1569 Train Batch Loss:  0.569 ; Time elapsed:  142100.18
+Epoch  1570 Train Batch Loss:  0.573 ; Time elapsed:  142296.77
+Epoch  1571 Train Batch Loss:  0.566 Test Loss:  0.599 ; Time elapsed:  142493.97
+Epoch  1572 Train Batch Loss:  0.569 ; Time elapsed:  142690.47
+Epoch  1573 Train Batch Loss:  0.573 ; Time elapsed:  142887.97
+Epoch  1574 Train Batch Loss:  0.567 ; Time elapsed:  143085.96
+Epoch  1575 Train Batch Loss:  0.567 ; Time elapsed:  143285.94
+Epoch  1576 Train Batch Loss:  0.564 Test Loss:  0.598 ; Time elapsed:  143484.24
+Epoch  1577 Train Batch Loss:  0.565 ; Time elapsed:  143682.32
+Epoch  1578 Train Batch Loss:  0.566 ; Time elapsed:  143882.37
+Epoch  1579 Train Batch Loss:  0.565 ; Time elapsed:  144079.74
+Epoch  1580 Train Batch Loss:  0.565 ; Time elapsed:  144277.46
+Epoch  1581 Train Batch Loss:  0.571 Test Loss:  0.599 ; Time elapsed:  144475.82
+Epoch  1582 Train Batch Loss:  0.571 ; Time elapsed:  144674.42
+Epoch  1583 Train Batch Loss:  0.564 ; Time elapsed:  144873.37
+Epoch  1584 Train Batch Loss:  0.563 ; Time elapsed:  145072.53
+Epoch  1585 Train Batch Loss:  0.565 ; Time elapsed:  145269.06
+Epoch  1586 Train Batch Loss:  0.571 Test Loss:  0.598 ; Time elapsed:  145469.23
+Epoch  1587 Train Batch Loss:  0.566 ; Time elapsed:  145668.15
+Epoch  1588 Train Batch Loss:  0.564 ; Time elapsed:  145865.95
+Epoch  1589 Train Batch Loss:  0.568 ; Time elapsed:  146064.47
+Epoch  1590 Train Batch Loss:  0.565 ; Time elapsed:  146263.37
+Epoch  1591 Train Batch Loss:  0.564 Test Loss:  0.598 ; Time elapsed:  146461.25
+Epoch  1592 Train Batch Loss:  0.563 ; Time elapsed:  146660.56
+Epoch  1593 Train Batch Loss:  0.563 ; Time elapsed:  146859.9
+Epoch  1594 Train Batch Loss:  0.566 ; Time elapsed:  147059.37
+Epoch  1595 Train Batch Loss:  0.562 ; Time elapsed:  147258.02
+Epoch  1596 Train Batch Loss:  0.562 Test Loss:  0.598 ; Time elapsed:  147457.25
+Epoch  1597 Train Batch Loss:  0.563 ; Time elapsed:  147654.37
+Epoch  1598 Train Batch Loss:  0.572 ; Time elapsed:  147853.03
+Epoch  1599 Train Batch Loss:  0.566 ; Time elapsed:  148050.5
+Epoch  1600 Train Batch Loss:  0.564 ; Time elapsed:  148249.08
+Epoch  1601 Train Batch Loss:  0.567 Test Loss:  0.599 ; Time elapsed:  148446.67
+Epoch  1602 Train Batch Loss:  0.566 ; Time elapsed:  148644.73
+Epoch  1603 Train Batch Loss:  0.562 ; Time elapsed:  148840.71
+Epoch  1604 Train Batch Loss:  0.573 ; Time elapsed:  149038.08
+Epoch  1605 Train Batch Loss:  0.57 ; Time elapsed:  149235.31
+Epoch  1606 Train Batch Loss:  0.567 Test Loss:  0.599 ; Time elapsed:  149432.49
+Epoch  1607 Train Batch Loss:  0.568 ; Time elapsed:  149628.61
+Epoch  1608 Train Batch Loss:  0.569 ; Time elapsed:  149825.27
+Epoch  1609 Train Batch Loss:  0.566 ; Time elapsed:  150021.64
+Epoch  1610 Train Batch Loss:  0.563 ; Time elapsed:  150218.95
+Epoch  1611 Train Batch Loss:  0.572 Test Loss:  0.599 ; Time elapsed:  150415.71
+Epoch  1612 Train Batch Loss:  0.567 ; Time elapsed:  150612.78
+Epoch  1613 Train Batch Loss:  0.563 ; Time elapsed:  150810.26
+Epoch  1614 Train Batch Loss:  0.571 ; Time elapsed:  151008.94
+Epoch  1615 Train Batch Loss:  0.569 ; Time elapsed:  151206.15
+Epoch  1616 Train Batch Loss:  0.574 Test Loss:  0.599 ; Time elapsed:  151403.73
+Epoch  1617 Train Batch Loss:  0.567 ; Time elapsed:  151600.82
+Epoch  1618 Train Batch Loss:  0.566 ; Time elapsed:  151797.46
+Epoch  1619 Train Batch Loss:  0.57 ; Time elapsed:  151995.25
+Epoch  1620 Train Batch Loss:  0.564 ; Time elapsed:  152193.36
+Epoch  1621 Train Batch Loss:  0.57 Test Loss:  0.601 ; Time elapsed:  152391.19
+Epoch  1622 Train Batch Loss:  0.57 ; Time elapsed:  152589.43
+Epoch  1623 Train Batch Loss:  0.575 ; Time elapsed:  152786.99
+Epoch  1624 Train Batch Loss:  0.572 ; Time elapsed:  152984.55
+Epoch  1625 Train Batch Loss:  0.57 ; Time elapsed:  153181.09
+Epoch  1626 Train Batch Loss:  0.565 Test Loss:  0.599 ; Time elapsed:  153379.06
+Epoch  1627 Train Batch Loss:  0.566 ; Time elapsed:  153575.97
+Epoch  1628 Train Batch Loss:  0.565 ; Time elapsed:  153772.32
+Epoch  1629 Train Batch Loss:  0.57 ; Time elapsed:  153970.07
+Epoch  1630 Train Batch Loss:  0.57 ; Time elapsed:  154167.65
+Epoch  1631 Train Batch Loss:  0.566 Test Loss:  0.599 ; Time elapsed:  154365.3
+Epoch  1632 Train Batch Loss:  0.567 ; Time elapsed:  154561.8
+Epoch  1633 Train Batch Loss:  0.565 ; Time elapsed:  154759.47
+Epoch  1634 Train Batch Loss:  0.57 ; Time elapsed:  154956.69
+Epoch  1635 Train Batch Loss:  0.572 ; Time elapsed:  155153.57
+Epoch  1636 Train Batch Loss:  0.574 Test Loss:  0.6 ; Time elapsed:  155350.13
+Epoch  1637 Train Batch Loss:  0.569 ; Time elapsed:  155547.54
+Epoch  1638 Train Batch Loss:  0.575 ; Time elapsed:  155745.34
+Epoch  1639 Train Batch Loss:  0.567 ; Time elapsed:  155942.14
+Epoch  1640 Train Batch Loss:  0.565 ; Time elapsed:  156138.2
+Epoch  1641 Train Batch Loss:  0.576 Test Loss:  0.6 ; Time elapsed:  156335.74
+Epoch  1642 Train Batch Loss:  0.567 ; Time elapsed:  156533.57
+Epoch  1643 Train Batch Loss:  0.575 ; Time elapsed:  156729.6
+Epoch  1644 Train Batch Loss:  0.565 ; Time elapsed:  156925.95
+Epoch  1645 Train Batch Loss:  0.567 ; Time elapsed:  157123.27
+Epoch  1646 Train Batch Loss:  0.567 Test Loss:  0.598 ; Time elapsed:  157320.98
+Epoch  1647 Train Batch Loss:  0.566 ; Time elapsed:  157517.81
+Epoch  1648 Train Batch Loss:  0.578 ; Time elapsed:  157715.0
+Epoch  1649 Train Batch Loss:  0.567 ; Time elapsed:  157912.59
+Epoch  1650 Train Batch Loss:  0.575 ; Time elapsed:  158111.47
+Epoch  1651 Train Batch Loss:  0.567 Test Loss:  0.599 ; Time elapsed:  158309.02
+Epoch  1652 Train Batch Loss:  0.565 ; Time elapsed:  158505.63
+Epoch  1653 Train Batch Loss:  0.565 ; Time elapsed:  158702.7
+Epoch  1654 Train Batch Loss:  0.567 ; Time elapsed:  158900.84
+Epoch  1655 Train Batch Loss:  0.564 ; Time elapsed:  159098.89
+Epoch  1656 Train Batch Loss:  0.565 Test Loss:  0.598 ; Time elapsed:  159296.66
+Epoch  1657 Train Batch Loss:  0.572 ; Time elapsed:  159493.44
+Epoch  1658 Train Batch Loss:  0.567 ; Time elapsed:  159692.54
+Epoch  1659 Train Batch Loss:  0.576 ; Time elapsed:  159890.04
+Epoch  1660 Train Batch Loss:  0.567 ; Time elapsed:  160086.44
+Epoch  1661 Train Batch Loss:  0.571 Test Loss:  0.606 ; Time elapsed:  160283.13
+Epoch  1662 Train Batch Loss:  0.574 ; Time elapsed:  160481.5
+Epoch  1663 Train Batch Loss:  0.568 ; Time elapsed:  160678.65
+Epoch  1664 Train Batch Loss:  0.566 ; Time elapsed:  160874.91
+Epoch  1665 Train Batch Loss:  0.568 ; Time elapsed:  161072.58
+Epoch  1666 Train Batch Loss:  0.567 Test Loss:  0.599 ; Time elapsed:  161271.85
+Epoch  1667 Train Batch Loss:  0.562 ; Time elapsed:  161469.29
+Epoch  1668 Train Batch Loss:  0.566 ; Time elapsed:  161667.51
+Epoch  1669 Train Batch Loss:  0.575 ; Time elapsed:  161865.53
+Epoch  1670 Train Batch Loss:  0.569 ; Time elapsed:  162063.84
+Epoch  1671 Train Batch Loss:  0.564 Test Loss:  0.604 ; Time elapsed:  162263.82
+Epoch  1672 Train Batch Loss:  0.566 ; Time elapsed:  162461.06
+Epoch  1673 Train Batch Loss:  0.572 ; Time elapsed:  162658.68
+Epoch  1674 Train Batch Loss:  0.566 ; Time elapsed:  162857.02
+Epoch  1675 Train Batch Loss:  0.574 ; Time elapsed:  163056.16
+Epoch  1676 Train Batch Loss:  0.572 Test Loss:  0.606 ; Time elapsed:  163253.26
+Epoch  1677 Train Batch Loss:  0.569 ; Time elapsed:  163451.48
+Epoch  1678 Train Batch Loss:  0.573 ; Time elapsed:  163648.72
+Epoch  1679 Train Batch Loss:  0.567 ; Time elapsed:  163845.44
+Epoch  1680 Train Batch Loss:  0.565 ; Time elapsed:  164042.97
+Epoch  1681 Train Batch Loss:  0.569 Test Loss:  0.599 ; Time elapsed:  164240.23
+Epoch  1682 Train Batch Loss:  0.574 ; Time elapsed:  164437.4
+Epoch  1683 Train Batch Loss:  0.569 ; Time elapsed:  164635.64
+Epoch  1684 Train Batch Loss:  0.576 ; Time elapsed:  164833.16
+Epoch  1685 Train Batch Loss:  0.571 ; Time elapsed:  165030.88
+Epoch  1686 Train Batch Loss:  0.573 Test Loss:  0.613 ; Time elapsed:  165229.22
+Epoch  1687 Train Batch Loss:  0.573 ; Time elapsed:  165428.54
+Epoch  1688 Train Batch Loss:  0.573 ; Time elapsed:  165625.89
+Epoch  1689 Train Batch Loss:  0.571 ; Time elapsed:  165823.62
+Epoch  1690 Train Batch Loss:  0.568 ; Time elapsed:  166023.27
+Epoch  1691 Train Batch Loss:  0.568 Test Loss:  0.603 ; Time elapsed:  166221.79
+Epoch  1692 Train Batch Loss:  0.574 ; Time elapsed:  166419.85
+Epoch  1693 Train Batch Loss:  0.567 ; Time elapsed:  166618.22
+Epoch  1694 Train Batch Loss:  0.57 ; Time elapsed:  166816.6
+Epoch  1695 Train Batch Loss:  0.571 ; Time elapsed:  167014.2
+Epoch  1696 Train Batch Loss:  0.571 Test Loss:  0.604 ; Time elapsed:  167211.92
+Epoch  1697 Train Batch Loss:  0.569 ; Time elapsed:  167408.76
+Epoch  1698 Train Batch Loss:  0.567 ; Time elapsed:  167605.96
+Epoch  1699 Train Batch Loss:  0.572 ; Time elapsed:  167804.26
+Epoch  1700 Train Batch Loss:  0.565 ; Time elapsed:  168001.41
+Epoch  1701 Train Batch Loss:  0.571 Test Loss:  0.603 ; Time elapsed:  168198.5
+Epoch  1702 Train Batch Loss:  0.57 ; Time elapsed:  168395.01
+Epoch  1703 Train Batch Loss:  0.566 ; Time elapsed:  168592.84
+Epoch  1704 Train Batch Loss:  0.567 ; Time elapsed:  168789.21
+Epoch  1705 Train Batch Loss:  0.567 ; Time elapsed:  168986.29
+Epoch  1706 Train Batch Loss:  0.568 Test Loss:  0.602 ; Time elapsed:  169184.3
+Epoch  1707 Train Batch Loss:  0.566 ; Time elapsed:  169380.9
+Epoch  1708 Train Batch Loss:  0.572 ; Time elapsed:  169577.33
+Epoch  1709 Train Batch Loss:  0.568 ; Time elapsed:  169773.98
+Epoch  1710 Train Batch Loss:  0.567 ; Time elapsed:  169971.37
+Epoch  1711 Train Batch Loss:  0.573 Test Loss:  0.599 ; Time elapsed:  170168.13
+Epoch  1712 Train Batch Loss:  0.571 ; Time elapsed:  170366.07
+Epoch  1713 Train Batch Loss:  0.567 ; Time elapsed:  170563.22
+Epoch  1714 Train Batch Loss:  0.568 ; Time elapsed:  170761.14
+Epoch  1715 Train Batch Loss:  0.566 ; Time elapsed:  170958.5
+Epoch  1716 Train Batch Loss:  0.565 Test Loss:  0.599 ; Time elapsed:  171155.42
+Epoch  1717 Train Batch Loss:  0.57 ; Time elapsed:  171352.32
+Epoch  1718 Train Batch Loss:  0.57 ; Time elapsed:  171549.73
+Epoch  1719 Train Batch Loss:  0.568 ; Time elapsed:  171746.48
+Epoch  1720 Train Batch Loss:  0.565 ; Time elapsed:  171943.88
+Epoch  1721 Train Batch Loss:  0.568 Test Loss:  0.599 ; Time elapsed:  172141.19
+Epoch  1722 Train Batch Loss:  0.566 ; Time elapsed:  172338.24
+Epoch  1723 Train Batch Loss:  0.574 ; Time elapsed:  172536.4
+Epoch  1724 Train Batch Loss:  0.57 ; Time elapsed:  172726.7
